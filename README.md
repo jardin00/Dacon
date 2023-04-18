@@ -9,11 +9,15 @@
 ## Explanation
 - Build an AI model that predicts flight delays with unlabeled data!
 
+## Judging Criteria
+- LogLoss
+
 ## Programming Language
 - Python
 
-## Judging Criteria
-- LogLoss
+## Dataset Info.
+- train: 1,000,000 pieces of data
+- test: 1,000,000 pieces of data
 
 ## Organizer / Organizer
 - Dacon

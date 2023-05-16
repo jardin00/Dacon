@@ -1,26 +1,9 @@
-# Monthly-Dacon-Flight-Delay-Prediction-AI-Contest
+# Dacon_Contest
 
-## Competition period
-- 2023.04.03 ~ 2023.05.08
+- Code from a Dacon competition I participated in
+- The file name is the same as the name of the competition
 
-## Subject
-- Predict flight delay using training dataset given only some labels
-
-## Explanation
-- Build an AI model that predicts flight delays with unlabeled data!
-
-## Judging Criteria
-- LogLoss
-
-## Programming Language
-- Python
-
-## Dataset Info.
-- train: 1,000,000 pieces of data
-- test: 1,000,000 pieces of data
-
-## Organizer / Organizer
-- Dacon
-
-## URL
-- https://dacon.io/competitions/official/236094/overview/description
+| Title | Public Score | Status | Keyword |
+| ------------ | ------------- | ------------- | ------------- |
+| [Sentence Type Classification AI Contest](https://dacon.io/competitions/official/236037/overview/description) | 0.74257 | in progress | Language, Classification |
+| [Monthly Dacon Flight Delay Prediction AI Contest](https://dacon.io/competitions/official/236094/overview/description) | 0.64332 | in progress | Classification, Semi-supervised learning |

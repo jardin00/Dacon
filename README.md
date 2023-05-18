@@ -1,4 +1,4 @@
-# Dacon_Contest
+# Dacon
 
 - Code from a Dacon competition I participated in
 - The file name is the same as the name of the competition
